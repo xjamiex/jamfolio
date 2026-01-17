@@ -1,0 +1,6 @@
+*.data
+*.html
+*.js
+*.wasm
+Makefile
+compile.sh
